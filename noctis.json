@@ -1,0 +1,27 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+
+    "schemes": [
+        {
+            "name": "Noctis Sereno",
+            "foreground": "#B2CACD",
+            "background": "#062E32",
+            "black": "#324A4D",
+            "blue": "#49ACE9",
+            "brightBlack": "#47686C",
+            "brightBlue": "#60B6EB",
+            "brightCyan": "#60DBEB",
+            "brightGreen": "#60EBB1",
+            "brightPurple": "#E798B3",
+            "brightRed": "#E97749",
+            "brightWhite": "#C1D4D7",
+            "brightYellow": "#E69533",
+            "cyan": "#49D6E9",
+            "green": "#49E9A6",
+            "purple": "#DF769B",
+            "red": "#E66533",
+            "white": "#B2CACD",
+            "yellow": "#E4B781"
+        }
+    ]
+}
