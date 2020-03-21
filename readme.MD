@@ -12,3 +12,8 @@ These themes have been ported from the amazing Noctis themes for VSCode:
 
 https://github.com/liviuschera/noctis/
 
+Screenshot:
+
+<p align="center">
+   <img width="400" src="noctis_terminal.gif" />
+</p>
